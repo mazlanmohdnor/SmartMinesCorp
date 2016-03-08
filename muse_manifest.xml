@@ -1,0 +1,129 @@
+<manifest alg="2" build="44" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1441216478937">
+  <folder name="css">
+    <file name="site_global.css" crc="493240848"/>
+    <file name="index.css" crc="4200199404" ref="index"/>
+    <file name="iefonts_index.css" crc="86993438" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="samplegif.gif" crc="402118981" mt="1441203561000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index"/>
+    <file name="museutils.js" crc="479751881" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="index"/>
+    <file name="webpro.js" crc="3930024250" ref="index"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="index"/>
+    <file name="form_check.php" crc="332337308" ref="index"/>
+    <file name="form_throttle.php" crc="3814272331" ref="index"/>
+    <file name="form_process.php" crc="59041389" ref="index"/>
+    <file name="form-u1561.php" crc="35007250" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook2-normal.png" crc="4124403206" ref="index"/>
+    <file name="facebook2-over.png" crc="4228188101" ref="index"/>
+    <file name="twitter-normal.png" crc="373142470" ref="index"/>
+    <file name="twitter-over.png" crc="4105861717" ref="index"/>
+    <file name="google-plus-normal.png" crc="3760643665" ref="index"/>
+    <file name="google-plus-over.png" crc="3955570594" ref="index"/>
+    <file name="instagram19-normal.png" crc="4046151896" ref="index"/>
+    <file name="instagram19-over.png" crc="479227798" ref="index"/>
+    <file name="telephone5-u2469.png" crc="4108886378" ref="index"/>
+    <file name="send4-u2475.png" crc="113400198" ref="index"/>
+    <file name="logo-u2105.png" crc="3842556635" ref="index"/>
+    <file name="mining-excavators2.jpg" crc="422143541" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="min_1.jpg" crc="3962938486" ref="index"/>
+    <file name="mining-industry.jpg" crc="4233261544" ref="index"/>
+    <file name="0000060fe-hunter_vallery_mining.jpg" crc="4168105900" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo-u2775.png" crc="3903492921" ref="index"/>
+    <file name="logo-u2778.png" crc="4284737175" ref="index"/>
+    <file name="carbon-476087.jpg" crc="104347906" ref="index"/>
+    <file name="ceo-crop-u2548.jpg" crc="127556511" ref="index"/>
+    <file name="bos-crop-u2554.jpg" crc="4260695003" ref="index"/>
+    <file name="img-20150823-wa0046-u177-fr.png" crc="4046652330" ref="index"/>
+    <file name="two205-u2639.png" crc="4163705409" ref="index"/>
+    <file name="worker26-u2649.png" crc="118469173" ref="index"/>
+    <file name="work4-u2644.png" crc="3926724736" ref="index"/>
+    <file name="hand220-u2634.png" crc="402177948" ref="index"/>
+    <file name="miningtruck.png" crc="338509781" ref="index"/>
+    <file name="iron.png" crc="267777705" ref="index"/>
+    <file name="graphite_rock.png" crc="257137927" ref="index"/>
+    <file name="manganese-rock.png" crc="3899832599" ref="index"/>
+    <file name="min_1-u167-fr.png" crc="3998979007" ref="index"/>
+    <file name="img-20150823-wa0026.jpg" crc="4256348444" ref="index"/>
+    <file name="img-20150823-wa0025-crop-u787.jpg" crc="303664390" ref="index"/>
+    <file name="img-20150823-wa0019.jpg" crc="3922933711" ref="index"/>
+    <file name="img-20150823-wa0020.jpg" crc="249224830" ref="index"/>
+    <file name="img-20150823-wa0024.jpg" crc="73761751" ref="index"/>
+    <file name="img-20150823-wa0023-u797.png" crc="3993308621" ref="index"/>
+    <file name="img-20150823-wa0022.jpg" crc="333389695" ref="index"/>
+    <file name="img-20150823-wa0021.jpg" crc="33012056" ref="index"/>
+    <file name="img-20150823-wa0026234x175.jpg" crc="4096142666" ref="index"/>
+    <file name="img-20150823-wa0025-crop-u806.jpg" crc="126441851" ref="index"/>
+    <file name="img-20150823-wa0019234x175.jpg" crc="254165229" ref="index"/>
+    <file name="img-20150823-wa0020249x187.jpg" crc="363009300" ref="index"/>
+    <file name="img-20150823-wa0024234x175.jpg" crc="448436810" ref="index"/>
+    <file name="u822.png" crc="3834955854" ref="index"/>
+    <file name="u822-r.png" crc="509859183" ref="index"/>
+    <file name="img-20150823-wa0022234x175.jpg" crc="517565353" ref="index"/>
+    <file name="img-20150823-wa0021249x187.jpg" crc="9732939" ref="index"/>
+    <file name="arrow-left.png" crc="264472271" ref="index"/>
+    <file name="arrow-right.png" crc="4239621501" ref="index"/>
+    <file name="img-20150823-wa0054-crop-u1215.jpg" crc="306294105" ref="index"/>
+    <file name="img-20150823-wa0036-crop-u1223.jpg" crc="3829736851" ref="index"/>
+    <file name="img-20150823-wa0053-crop-u1217.jpg" crc="153567164" ref="index"/>
+    <file name="img-20150823-wa0049.jpg" crc="4118823197" ref="index"/>
+    <file name="img-20150823-wa0047.jpg" crc="3899740691" ref="index"/>
+    <file name="img-20150823-wa0044.jpg" crc="418002037" ref="index"/>
+    <file name="img-20150823-wa0043.jpg" crc="4109363401" ref="index"/>
+    <file name="img-20150823-wa0040.jpg" crc="38375289" ref="index"/>
+    <file name="img-20150823-wa0042.jpg" crc="339882276" ref="index"/>
+    <file name="img-20150823-wa0046755x567.jpg" crc="3907331647" ref="index"/>
+    <file name="img-20150823-wa0054-crop-u1244.jpg" crc="3884443045" ref="index"/>
+    <file name="img-20150823-wa0036-crop-u1264.jpg" crc="4221372001" ref="index"/>
+    <file name="img-20150823-wa0053-crop-u1250.jpg" crc="396696178" ref="index"/>
+    <file name="img-20150823-wa0049249x187.jpg" crc="207315016" ref="index"/>
+    <file name="img-20150823-wa0047249x187.jpg" crc="40501536" ref="index"/>
+    <file name="img-20150823-wa0044249x187.jpg" crc="511738493" ref="index"/>
+    <file name="img-20150823-wa0043249x187.jpg" crc="4262045741" ref="index"/>
+    <file name="img-20150823-wa0040249x187.jpg" crc="295094727" ref="index"/>
+    <file name="img-20150823-wa0042249x187.jpg" crc="3974131168" ref="index"/>
+    <file name="img-20150823-wa0046249x187.jpg" crc="4048746973" ref="index"/>
+    <file name="img-20150823-wa0063.jpg" crc="447582886" ref="index"/>
+    <file name="img-20150823-wa0062.jpg" crc="3836768935" ref="index"/>
+    <file name="img-20150823-wa0061.jpg" crc="162694464" ref="index"/>
+    <file name="img-20150823-wa0032.jpg" crc="4291066288" ref="index"/>
+    <file name="img-20150823-wa0028.jpg" crc="3846179578" ref="index"/>
+    <file name="img-20150823-wa0031-crop-u2326.jpg" crc="230719728" ref="index"/>
+    <file name="img-20150823-wa0056.jpg" crc="194989222" ref="index"/>
+    <file name="img-20150823-wa0030.jpg" crc="86426222" ref="index"/>
+    <file name="img-20150823-wa0059.jpg" crc="27261482" ref="index"/>
+    <file name="img-20150823-wa0027.jpg" crc="34697592" ref="index"/>
+    <file name="img-20150823-wa0063249x187.jpg" crc="4138261677" ref="index"/>
+    <file name="img-20150823-wa0062249x187.jpg" crc="4074757606" ref="index"/>
+    <file name="img-20150823-wa0061249x187.jpg" crc="88852638" ref="index"/>
+    <file name="img-20150823-wa0033.jpg" crc="4202873668" ref="index"/>
+    <file name="img-20150823-wa0028234x175.jpg" crc="298582309" ref="index"/>
+    <file name="img-20150823-wa0031-crop-u2329.jpg" crc="4127742283" ref="index"/>
+    <file name="img-20150823-wa0056249x187.jpg" crc="4112122867" ref="index"/>
+    <file name="img-20150823-wa0030249x187.jpg" crc="231436051" ref="index"/>
+    <file name="img-20150823-wa0059249x187.jpg" crc="4082091597" ref="index"/>
+    <file name="img-20150823-wa0027249x187.jpg" crc="14651557" ref="index"/>
+    <file name="u1580-17.png" crc="510559614" ref="index"/>
+    <file name="u1580-17-r.png" crc="3869874028" ref="index"/>
+    <file name="u1580-17-m.png" crc="3869874028" ref="index"/>
+    <file name="u1580-17-fs.png" crc="100548688" ref="index"/>
+    <file name="telephone5.png" crc="4202941561" ref="index"/>
+    <file name="send4.png" crc="3827501242" ref="index"/>
+    <file name="logo307x170.png" crc="344392489" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3790652682" mt="1441216440381" redirect="true"/>
+</manifest>
